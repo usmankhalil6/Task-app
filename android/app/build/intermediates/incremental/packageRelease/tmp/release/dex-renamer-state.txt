@@ -1,0 +1,4 @@
+#Wed Jun 28 21:04:46 PKT 2023
+base.0=/Users/macbook/Desktop/Task-app/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
